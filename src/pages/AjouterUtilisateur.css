@@ -1,0 +1,23 @@
+.ajouter-utilisateur-page {
+    background-color: #f5f5f5;
+    min-height: 100vh;
+    padding-top: 30px;
+  }
+  
+  .form-container {
+    background-color: #e6f7f7;
+    max-width: 950px;
+    width: 100%;
+  }
+  
+  .custom-button {
+    background-color: #4eb1b1;
+    border-color: #4eb1b1;
+    color: white;
+  }
+  
+  .custom-button:hover {
+    background-color: #3da1a1;
+    border-color: #3da1a1;
+  }
+  
